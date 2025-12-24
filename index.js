@@ -1,13 +1,13 @@
 'use strict';
 const OPT = {
-    "user" : "admin", //后台密码请修改
-    "password" : "yourSelfPwd", //后台密码
-    "siteDomain" : "blog.gezhong.vip",// 域名(不带https 也不带/)
+    "user" : "wuli", //后台密码请修改
+    "password" : "wuli830301", //后台密码
+    "siteDomain" : "chaoyingmetal.com",// 域名(不带https 也不带/)
     "siteName" : "CF workers blog",//博客名称
-    "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
-    "keyWords":"cloudflare,KV,workers,blog",//关键字
-    "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
-    "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
+    "siteDescription":"Chao Ying Metal",//博客描述
+    "keyWords":"metal",//关键字
+    "cacheZoneId":"38a3aa821a0baa60cca83c36c7a38b4b",//清理缓存用 cf区域 ID
+    "cacheToken":"UbyMPIw5uDGhwNmQn16x2ji_TPMfbIIl8u3kFNQp",//清理缓存用 cf API token
 	
     "pageSize" : 5,//每页文章数
     "recentlySize" : 6,//最近文章数
